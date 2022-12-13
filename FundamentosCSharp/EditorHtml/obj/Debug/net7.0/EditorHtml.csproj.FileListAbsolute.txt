@@ -1,0 +1,15 @@
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+E:\BaltaIOC#\BaltaCSharp\FundamentosCSharp\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
